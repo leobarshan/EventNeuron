@@ -62,7 +62,7 @@ html{
   
   /*  Card hover */
   .move-up:hover{
-      background-color: #fec503;
+      background-color: #424372;
     color: white;
       transition: all .5s;
       transform : translateY(-10px);
